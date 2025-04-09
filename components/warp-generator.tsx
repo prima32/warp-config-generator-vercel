@@ -61,7 +61,7 @@ export function WarpGenerator() {
   const downloadConfig = () => {
     if (configData) {
       const link = document.createElement("a")
-      link.href = "data:text/plain;base64," + configData.configBase64
+      link.href = "data:application/octet-stream;base64," + configData.configBase64
       link.download = `warp_llimonix_${Math.floor(Math.random() * (999 - 100 + 1)) + 100}.conf`
       link.click()
       ym(98811523, "reachGoal", "WARP_DOWNLOAD")
